@@ -1,4 +1,4 @@
-## Video Streaming Flask Application
+# Video Streaming Flask Application
 
 This Flask application demonstrates live video streaming using OpenCV and Flask. It captures video from the device's camera and streams it to a web page using Flask's `multipart/x-mixed-replace` content type.
 
